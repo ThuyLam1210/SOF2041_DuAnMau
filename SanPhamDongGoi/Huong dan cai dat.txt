@@ -1,0 +1,8 @@
+﻿1. Chạy laptrinhedu.sql để tạo CSDL LaptrinhEDU
+2. Đặt mật khẩu sa của SQL Server là 123
+3. Chạy file Setup (chú ý môi trường JDK18.0.1.1)=>>nguồn cài đặt trong file bên dưới
+4. Chạy ứng dụng và đăng nhập với tài khoản:
+-Quản lý: Tên đăng nhập: admin 
+	  Password:  1234
+-Nhân Viên: Tên đăng nhập: thuc
+            Password: 5678
